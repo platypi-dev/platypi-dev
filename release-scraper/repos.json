@@ -1,0 +1,12 @@
+{
+    "repositories": [
+        {
+            "org": "argo-proj",
+            "repoName": "argo-cd"
+        },
+        {
+            "org": "gruntwork-io",
+            "repoName": "boilerplate"
+        }
+    ]
+}
